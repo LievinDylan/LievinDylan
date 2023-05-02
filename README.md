@@ -38,4 +38,4 @@ J'ai pris la pillule rouge avec la détermination et l'investissement nécessair
 
 <sup>Tiens, le soleil pointe le bout de son nez ! 🌞</sup>
 
-![](https://www.bonjourlesenfants.net/coloriages/998/p/coloriage-chi-p-2.jpg)
+![](https://img.20mn.fr/s44skrQJSp2vfU-MTToYaA/1200x768_chat-chi)
