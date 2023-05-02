@@ -1,5 +1,7 @@
 # Bien le bonjour !  👋
+![](https://www.lebipolaire.com/wp-content/uploads/wpforo/default_attachments/1547029926-76479dd91dc55c2768ddccfc30a4fbf5-pikachu-halloween-costume-diy-halloween-costumes.jpg)
 
+# Bienvenue sur ma présentation perso' ! 
 ## Les infos de base !
 Je m'appelle Dylan LIEVIN, j'ai 28 ans et je commence la formation de développeur web full stack JS avec l'organisme O'clock.
 J'habite dans les Hauts-de-France (beurk, team **Picardie**), dans le département de *l'Oise*, à Chantilly.
@@ -35,3 +37,5 @@ J'espère pouvoir mettre à profil mes expériences passés pour m'aider à prog
 J'ai pris la pillule rouge avec la détermination et l'investissement nécessaire pour mener ce projet de vie coûte que coûte.
 
 <sup>Tiens, le soleil pointe le bout de son nez ! 🌞</sup>
+
+![](https://www.bonjourlesenfants.net/coloriages/998/p/coloriage-chi-p-2.jpg)
