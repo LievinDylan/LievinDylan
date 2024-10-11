@@ -7,7 +7,7 @@ Gros coup de coeur pour NextJS dernièrement !
 
 J'ai pu réalisé en autonomie quelques sites, notamment sous NextJS et WordPress.
 En parallèle, je me forme aux différents outils de graphisme et au graphisme même. 
-J'ai participé à la création d'un collectif d'indépendant et réaliser le site de ce denier : [DOKOKO](https://dokoko.co/)
+J'ai participé à la création d'un collectif d'indépendant et réaliser le site de ce denier : [Dokoko](https://dokoko.co/)
 
 
 Au plaisir de pouvoir partagé avec vous mes projets.
